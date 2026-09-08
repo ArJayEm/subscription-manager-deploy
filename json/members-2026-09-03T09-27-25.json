@@ -1,0 +1,143 @@
+[
+  {
+    "id": "m1",
+    "name": "Ariza",
+    "dueDate": 30,
+    "customAmounts": {
+      "p1": [
+        {
+          "amount": 60,
+          "effectivityDate": "2025-10-01"
+        }
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "name": "Jayson",
+    "dueDate": 23,
+    "customAmounts": {
+      "p2": [
+        {
+          "amount": 65,
+          "effectivityDate": "2025-10-01"
+        }
+      ]
+    },
+    "id": "m_1786175140717",
+    "isActive": true
+  },
+  {
+    "name": "Alvin",
+    "dueDate": 22,
+    "customAmounts": {
+      "p2": [
+        {
+          "amount": 65,
+          "effectivityDate": "2025-01-01"
+        }
+      ]
+    },
+    "id": "m_1786175168485",
+    "isActive": true
+  },
+  {
+    "name": "Jack",
+    "dueDate": 13,
+    "customAmounts": {
+      "p_1786264034135": [
+        {
+          "amount": 100,
+          "effectivityDate": "2025-12-01"
+        }
+      ]
+    },
+    "id": "m_1786175235215",
+    "isActive": true
+  },
+  {
+    "name": "Maricar",
+    "dueDate": 13,
+    "customAmounts": {
+      "p_1786264034135": [
+        {
+          "amount": 100,
+          "effectivityDate": "2025-12-01"
+        }
+      ]
+    },
+    "id": "m_1786175247356",
+    "isActive": true
+  },
+  {
+    "name": "Kenneth",
+    "dueDate": 13,
+    "customAmounts": {
+      "p_1786264034135": [
+        {
+          "amount": 100,
+          "effectivityDate": "2025-12-01"
+        }
+      ]
+    },
+    "id": "m_1786175262802",
+    "isActive": true
+  },
+  {
+    "name": "Randolph",
+    "dueDate": 13,
+    "customAmounts": {
+      "p_1786264034135": [
+        {
+          "amount": 100,
+          "effectivityDate": "2025-12-01"
+        }
+      ]
+    },
+    "id": "m_1786175275294",
+    "isActive": true
+  },
+  {
+    "id": "m2",
+    "name": "Ann",
+    "dueDate": 7,
+    "customAmounts": {
+      "p1": [
+        {
+          "amount": 60,
+          "effectivityDate": "2025-10-01"
+        }
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "m3",
+    "name": "Rox",
+    "dueDate": 3,
+    "customAmounts": {
+      "p1": [
+        {
+          "amount": 60,
+          "effectivityDate": "2025-10-01"
+        }
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "name": "Rachell",
+    "dueDate": 23,
+    "isActive": false,
+    "status": "inactive",
+    "customAmounts": {
+      "p2": [
+        {
+          "amount": 65,
+          "effectivityDate": null
+        }
+      ]
+    },
+    "id": "m_1786390481241"
+  }
+]

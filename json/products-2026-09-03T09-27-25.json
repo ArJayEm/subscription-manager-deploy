@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p3",
+    "name": "Netflix",
+    "amount": 549,
+    "description": "Standard plan",
+    "dueDate": "2026-08-30T00:00:00.000Z",
+    "accountName": "raffmartinez14@gmail.com"
+  },
+  {
+    "id": "p1",
+    "name": "Spotify Premium",
+    "amount": 279,
+    "description": "Family Plan",
+    "dueDate": "2026-12-07T16:00:00.000Z",
+    "accountName": "raffjulius.martinez@outlook.com"
+  },
+  {
+    "name": "Youtube Premium",
+    "amount": 379,
+    "description": "Family Plan",
+    "dueDate": "2026-08-13T00:00:00.000Z",
+    "id": "p_1786264034135",
+    "accountName": "sophiascarlettmartinez@gmail.com"
+  },
+  {
+    "id": "p2",
+    "name": "YouTube Premium",
+    "amount": 379,
+    "description": "Family Plan",
+    "dueDate": "2026-02-08T16:00:00.000Z",
+    "accountName": "raffmartinez14@gmail.com"
+  }
+]
