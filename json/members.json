@@ -1,8 +1,22 @@
 [
   {
-    "id": "m1",
-    "name": "Ariza",
-    "dueDate": 30,
+    "name": "Alvin",
+    "dueDate": 22,
+    "customAmounts": {
+      "p2": [
+        {
+          "amount": 65,
+          "effectivityDate": "2025-01-01"
+        }
+      ]
+    },
+    "id": "m_1786175168485",
+    "isActive": true
+  },
+  {
+    "id": "m2",
+    "name": "Ann",
+    "dueDate": 7,
     "customAmounts": {
       "p1": [
         {
@@ -14,39 +28,17 @@
     "isActive": true
   },
   {
-    "name": "Jayson",
-    "dueDate": 23,
+    "id": "m1",
+    "name": "Ariza",
+    "dueDate": 30,
     "customAmounts": {
-      "p2": [
+      "p1": [
         {
-          "amount": 65,
-          "effectivityDate": "2025-01-01"
-        },
-        {
-          "amount": 95,
-          "effectivityDate": "2026-06-01"
+          "amount": 60,
+          "effectivityDate": "2025-10-01"
         }
       ]
     },
-    "id": "m_1786175140717",
-    "isActive": true
-  },
-  {
-    "name": "Alvin",
-    "dueDate": 22,
-    "customAmounts": {
-      "p2": [
-        {
-          "amount": 65,
-          "effectivityDate": "2025-01-01"
-        },
-        {
-          "amount": 95,
-          "effectivityDate": "2026-06-01"
-        }
-      ]
-    },
-    "id": "m_1786175168485",
     "isActive": true
   },
   {
@@ -64,17 +56,17 @@
     "isActive": true
   },
   {
-    "name": "Maricar",
-    "dueDate": 13,
+    "name": "Jayson",
+    "dueDate": 23,
     "customAmounts": {
-      "p_1786264034135": [
+      "p2": [
         {
-          "amount": 100,
-          "effectivityDate": "2025-12-01"
+          "amount": 65,
+          "effectivityDate": "2025-10-01"
         }
       ]
     },
-    "id": "m_1786175247356",
+    "id": "m_1786175140717",
     "isActive": true
   },
   {
@@ -89,6 +81,21 @@
       ]
     },
     "id": "m_1786175262802",
+    "isActive": false,
+    "status": "inactive"
+  },
+  {
+    "name": "Maricar",
+    "dueDate": 13,
+    "customAmounts": {
+      "p_1786264034135": [
+        {
+          "amount": 100,
+          "effectivityDate": "2025-12-01"
+        }
+      ]
+    },
+    "id": "m_1786175247356",
     "isActive": true
   },
   {
@@ -103,20 +110,6 @@
       ]
     },
     "id": "m_1786175275294",
-    "isActive": true
-  },
-  {
-    "id": "m2",
-    "name": "Ann",
-    "dueDate": 7,
-    "customAmounts": {
-      "p1": [
-        {
-          "amount": 60,
-          "effectivityDate": "2025-10-01"
-        }
-      ]
-    },
     "isActive": true
   },
   {

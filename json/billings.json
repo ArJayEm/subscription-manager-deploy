@@ -6,7 +6,7 @@
     "yearMonth": "2026-08",
     "amount": 60,
     "dueDate": "2026-09-07",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-08T09:04:29.585Z"
   },
   {
@@ -16,7 +16,7 @@
     "yearMonth": "2026-08",
     "amount": 60,
     "dueDate": "2026-09-03",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-08T09:04:29.585Z"
   },
   {
@@ -26,7 +26,7 @@
     "yearMonth": "2026-08",
     "amount": 100,
     "dueDate": "2026-09-13",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:47:47.826Z"
   },
   {
@@ -36,7 +36,7 @@
     "yearMonth": "2026-08",
     "amount": 100,
     "dueDate": "2026-09-13",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:47:47.826Z"
   },
   {
@@ -46,7 +46,7 @@
     "yearMonth": "2026-08",
     "amount": 100,
     "dueDate": "2026-09-13",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:47:47.826Z"
   },
   {
@@ -56,7 +56,7 @@
     "yearMonth": "2026-08",
     "amount": 100,
     "dueDate": "2026-09-13",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:47:47.826Z"
   },
   {
@@ -86,7 +86,7 @@
     "yearMonth": "2026-07",
     "amount": 60,
     "dueDate": "2026-08-03",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:48:11.932Z"
   },
   {
@@ -126,7 +126,7 @@
     "yearMonth": "2026-07",
     "amount": 100,
     "dueDate": "2026-08-13",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-09T08:48:11.932Z"
   },
   {
@@ -156,7 +156,7 @@
     "yearMonth": "2026-06",
     "amount": 60,
     "dueDate": "2026-07-03",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-10T11:31:03.795Z"
   },
   {
@@ -654,7 +654,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-06",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-07-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:05:49.305Z"
@@ -664,7 +664,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-07",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-08-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:05:53.529Z"
@@ -674,7 +674,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-08",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-09-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:05:57.253Z"
@@ -684,7 +684,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-09",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-10-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:06:00.837Z"
@@ -694,7 +694,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-10",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-11-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:06:05.219Z"
@@ -704,7 +704,7 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-11",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-12-22",
     "status": "paid",
     "createdAt": "2026-08-10T16:06:09.283Z"
@@ -714,9 +714,9 @@
     "memberId": "m_1786175168485",
     "productId": "p2",
     "yearMonth": "2026-12",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2027-01-22",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-10T16:06:12.820Z"
   },
   {
@@ -774,7 +774,7 @@
     "memberId": "m_1786175140717",
     "productId": "p2",
     "yearMonth": "2026-06",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-07-23",
     "status": "pending",
     "createdAt": "2026-08-10T19:49:34.127Z"
@@ -784,7 +784,7 @@
     "memberId": "m_1786175140717",
     "productId": "p2",
     "yearMonth": "2026-07",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-08-23",
     "status": "pending",
     "createdAt": "2026-08-10T19:49:37.592Z"
@@ -794,7 +794,7 @@
     "memberId": "m_1786175140717",
     "productId": "p2",
     "yearMonth": "2026-08",
-    "amount": 95,
+    "amount": 65,
     "dueDate": "2026-09-23",
     "status": "pending",
     "createdAt": "2026-08-10T19:49:41.329Z"
@@ -816,7 +816,7 @@
     "yearMonth": "2026-08",
     "amount": 60,
     "dueDate": "2026-09-30",
-    "status": "pending",
+    "status": "paid",
     "createdAt": "2026-08-10T20:38:25.911Z"
   },
   {
@@ -858,5 +858,335 @@
     "dueDate": "2026-01-13",
     "status": "paid",
     "createdAt": "2026-08-10T20:53:54.211Z"
+  },
+  {
+    "id": "b_1787557284713_9pfor1sz8",
+    "memberId": "m_1786175168485",
+    "productId": "p2",
+    "yearMonth": "2027-01",
+    "amount": 65,
+    "dueDate": "2027-02-22",
+    "status": "paid",
+    "createdAt": "2026-08-24T07:41:24.718Z"
+  },
+  {
+    "id": "b_1787557287585_kz58h8giv",
+    "memberId": "m_1786175168485",
+    "productId": "p2",
+    "yearMonth": "2027-02",
+    "amount": 65,
+    "dueDate": "2027-03-22",
+    "status": "paid",
+    "createdAt": "2026-08-24T07:41:27.585Z"
+  },
+  {
+    "id": "b_1787557290389_dohv9ued8",
+    "memberId": "m_1786175168485",
+    "productId": "p2",
+    "yearMonth": "2027-03",
+    "amount": 65,
+    "dueDate": "2027-04-22",
+    "status": "paid",
+    "createdAt": "2026-08-24T07:41:30.389Z"
+  },
+  {
+    "id": "b_1787557293094_85lf2m8cn",
+    "memberId": "m_1786175168485",
+    "productId": "p2",
+    "yearMonth": "2027-04",
+    "amount": 65,
+    "dueDate": "2027-05-22",
+    "status": "paid",
+    "createdAt": "2026-08-24T07:41:33.094Z"
+  },
+  {
+    "id": "b_1788845173907_0nkdll4dx",
+    "memberId": "m1",
+    "productId": "p1",
+    "yearMonth": "2026-09",
+    "amount": 60,
+    "dueDate": "2026-10-30",
+    "status": "paid",
+    "createdAt": "2026-09-08T05:26:13.907Z"
+  },
+  {
+    "id": "b_1788845173908_duh30nfyo",
+    "memberId": "m_1786175140717",
+    "productId": "p2",
+    "yearMonth": "2026-09",
+    "amount": 65,
+    "dueDate": "2026-10-23",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:13.908Z"
+  },
+  {
+    "id": "b_1788845173908_lbf1prj18",
+    "memberId": "m_1786175235215",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-09",
+    "amount": 100,
+    "dueDate": "2026-10-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:13.908Z"
+  },
+  {
+    "id": "b_1788845173908_3ysdvsmb6",
+    "memberId": "m_1786175247356",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-09",
+    "amount": 100,
+    "dueDate": "2026-10-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:13.908Z"
+  },
+  {
+    "id": "b_1788845173909_i55h515jr",
+    "memberId": "m_1786175262802",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-09",
+    "amount": 100,
+    "dueDate": "2026-10-13",
+    "status": "paid",
+    "createdAt": "2026-09-08T05:26:13.909Z"
+  },
+  {
+    "id": "b_1788845173909_kfdahqzz2",
+    "memberId": "m_1786175275294",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-09",
+    "amount": 100,
+    "dueDate": "2026-10-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:13.909Z"
+  },
+  {
+    "id": "b_1788845173909_11x71p6ot",
+    "memberId": "m2",
+    "productId": "p1",
+    "yearMonth": "2026-09",
+    "amount": 60,
+    "dueDate": "2026-10-07",
+    "status": "paid",
+    "createdAt": "2026-09-08T05:26:13.909Z"
+  },
+  {
+    "id": "b_1788845173910_mhvtiyh0f",
+    "memberId": "m3",
+    "productId": "p1",
+    "yearMonth": "2026-09",
+    "amount": 60,
+    "dueDate": "2026-10-03",
+    "status": "paid",
+    "createdAt": "2026-09-08T05:26:13.910Z"
+  },
+  {
+    "id": "b_1788845185724_rnq97eab8",
+    "memberId": "m1",
+    "productId": "p1",
+    "yearMonth": "2026-10",
+    "amount": 60,
+    "dueDate": "2026-11-30",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_mi9d3ptev",
+    "memberId": "m_1786175140717",
+    "productId": "p2",
+    "yearMonth": "2026-10",
+    "amount": 65,
+    "dueDate": "2026-11-23",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_0beq0ks5m",
+    "memberId": "m_1786175235215",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-10",
+    "amount": 100,
+    "dueDate": "2026-11-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_r3j22e3q0",
+    "memberId": "m_1786175247356",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-10",
+    "amount": 100,
+    "dueDate": "2026-11-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_bps32d8ev",
+    "memberId": "m_1786175275294",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-10",
+    "amount": 100,
+    "dueDate": "2026-11-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_tdlyylh4m",
+    "memberId": "m2",
+    "productId": "p1",
+    "yearMonth": "2026-10",
+    "amount": 60,
+    "dueDate": "2026-11-07",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845185724_6ms85k6xe",
+    "memberId": "m3",
+    "productId": "p1",
+    "yearMonth": "2026-10",
+    "amount": 60,
+    "dueDate": "2026-11-03",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:25.724Z"
+  },
+  {
+    "id": "b_1788845197232_qx0bn88dy",
+    "memberId": "m1",
+    "productId": "p1",
+    "yearMonth": "2026-11",
+    "amount": 60,
+    "dueDate": "2026-12-30",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_z6zicmf9q",
+    "memberId": "m_1786175140717",
+    "productId": "p2",
+    "yearMonth": "2026-11",
+    "amount": 65,
+    "dueDate": "2026-12-23",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_6w0w15hn7",
+    "memberId": "m_1786175235215",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-11",
+    "amount": 100,
+    "dueDate": "2026-12-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_19uregdl7",
+    "memberId": "m_1786175247356",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-11",
+    "amount": 100,
+    "dueDate": "2026-12-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_quvxgv9kh",
+    "memberId": "m_1786175275294",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-11",
+    "amount": 100,
+    "dueDate": "2026-12-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_49wsba0z5",
+    "memberId": "m2",
+    "productId": "p1",
+    "yearMonth": "2026-11",
+    "amount": 60,
+    "dueDate": "2026-12-07",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845197232_faq9d1mhi",
+    "memberId": "m3",
+    "productId": "p1",
+    "yearMonth": "2026-11",
+    "amount": 60,
+    "dueDate": "2026-12-03",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:37.232Z"
+  },
+  {
+    "id": "b_1788845201753_qtq32jman",
+    "memberId": "m1",
+    "productId": "p1",
+    "yearMonth": "2026-12",
+    "amount": 60,
+    "dueDate": "2027-01-30",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_1pupoimcf",
+    "memberId": "m_1786175140717",
+    "productId": "p2",
+    "yearMonth": "2026-12",
+    "amount": 65,
+    "dueDate": "2027-01-23",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_ylwcawr84",
+    "memberId": "m_1786175235215",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-12",
+    "amount": 100,
+    "dueDate": "2027-01-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_mv6g8x7lj",
+    "memberId": "m_1786175247356",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-12",
+    "amount": 100,
+    "dueDate": "2027-01-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_91ardzs2z",
+    "memberId": "m_1786175275294",
+    "productId": "p_1786264034135",
+    "yearMonth": "2026-12",
+    "amount": 100,
+    "dueDate": "2027-01-13",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_7g79d5onu",
+    "memberId": "m2",
+    "productId": "p1",
+    "yearMonth": "2026-12",
+    "amount": 60,
+    "dueDate": "2027-01-07",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
+  },
+  {
+    "id": "b_1788845201753_j1yat01bi",
+    "memberId": "m3",
+    "productId": "p1",
+    "yearMonth": "2026-12",
+    "amount": 60,
+    "dueDate": "2027-01-03",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:26:41.753Z"
   }
 ]

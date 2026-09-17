@@ -5,7 +5,10 @@
     "amount": 549,
     "description": "Standard plan",
     "dueDate": "2026-08-30T00:00:00.000Z",
-    "accountName": "raffmartinez14@gmail.com"
+    "dayOfMonth": 8,
+    "accountName": "raffmartinez14@gmail.com",
+    "fixedMembersCount": 1,
+    "maxMembers": 5
   },
   {
     "id": "p1",
@@ -13,7 +16,10 @@
     "amount": 279,
     "description": "Family Plan",
     "dueDate": "2026-12-07T16:00:00.000Z",
-    "accountName": "raffjulius.martinez@outlook.com"
+    "dayOfMonth": 12,
+    "accountName": "raffjulius.martinez@outlook.com",
+    "fixedMembersCount": 2,
+    "maxMembers": 6
   },
   {
     "name": "Youtube Premium",
@@ -21,7 +27,10 @@
     "description": "Family Plan",
     "dueDate": "2026-08-13T00:00:00.000Z",
     "id": "p_1786264034135",
-    "accountName": "sophiascarlettmartinez@gmail.com"
+    "dayOfMonth": 8,
+    "accountName": "sophiascarlettmartinez@gmail.com",
+    "fixedMembersCount": 1,
+    "maxMembers": 6
   },
   {
     "id": "p2",
@@ -29,6 +38,9 @@
     "amount": 379,
     "description": "Family Plan",
     "dueDate": "2026-02-08T16:00:00.000Z",
-    "accountName": "raffmartinez14@gmail.com"
+    "dayOfMonth": 2,
+    "accountName": "raffmartinez14@gmail.com",
+    "fixedMembersCount": 2,
+    "maxMembers": 6
   }
 ]
